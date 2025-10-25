@@ -91,7 +91,7 @@ const generateResponse = () => {
         chatbox.appendChild(thinkingMessageLi);
         chatbox.scrollTo(0, chatbox.scrollHeight);
 
-      fetch("http://localhost:3002/api/chat", {
+      fetch("https://botadvisor-online-business.onrender.com/api/chat", {
     method: "POST",
     headers: {
         "Content-Type": "application/json"
