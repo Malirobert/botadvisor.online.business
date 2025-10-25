@@ -122,7 +122,7 @@ const generateResponse = () => {
                     affiliateMessage.innerHTML = `
                         <span class="material-symbols-outlined">smart_toy</span>      
                         <p style="color:red; font-weight: bolder;">
-                        <br>Launch your online business right away with => <a href="https://legendarymarketer.com/" target="_blank">Legendary Marketer</a>
+                        <br>Launch your online business right away with => <a href="https://onlinebusinessbuilderchallenge.com/get-started/enroll?aid=100558" target="_blank">Legendary Marketer</a>
                         <br>A profitable online business gives you true financial freedom — the power to earn on your own terms, work from anywhere, and finally escape the 9-to-5 grind. Build a life where unpaid bills and strict schedules are replaced by flexibility, independence, and unlimited potential.
                         </p>
                     `;
