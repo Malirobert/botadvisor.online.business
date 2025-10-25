@@ -14,7 +14,7 @@ const allowedOrigins = [
     'http://localhost:5500',
     'http://127.0.0.1:5500',
     'http://127.0.0.1:5501',
-    'https://botadvisor-v8bv.onrender.com',
+    'https://botadvisor-online-business.onrender.com',
     'http://127.0.0.1:5503',
     'http://localhost:5503'
 ];
